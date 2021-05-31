@@ -33,6 +33,12 @@ step 4 : set up a gradle project and add the below dependency in build.gradle
 
      implementation 'org.springframework.boot:spring-boot-starter-artemis'
 
+step 5 : when you go to localhost:1861
+
+![server](https://github.com/arun786/SpringJMS/blob/main/src/images/screenshot%20of%20server.png)
+
+    username and password will be the same as provided while creating a broker.
+
 
 
 
