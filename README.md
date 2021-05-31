@@ -28,6 +28,15 @@ run the below command
     ./artemis run
 
 the server will start on port 8161
+
+step 4 : set up a gradle project and add the below dependency in build.gradle
+
+     implementation 'org.springframework.boot:spring-boot-starter-artemis'
+
+
+
+
+
     
     
     
